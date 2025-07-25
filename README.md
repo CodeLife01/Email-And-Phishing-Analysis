@@ -60,3 +60,19 @@ By working through this repository, you will learn how to:
    git clone https://github.com/CodeLife01/Email-And-Phishing-Analysis.git
    cd Email-And-Phishing-Analysis
    ```
+
+### ⚠️ Disclaimer
+
+  This repository is intended for educational and research purposes only. Do not open or execute any suspicious email attachments on your host machine. Use isolated virtual environments or trusted online sandboxes for any malware-related analysis. The authors take no responsibility for any misuse.
+  
+
+### 🤝 Contributions
+
+Contributions are welcome!
+If you’d like to add tools, improve documentation, or share new analysis examples:
+
+- Fork the repository
+
+- Create a new branch
+
+- Submit a Pull Request with your changes
